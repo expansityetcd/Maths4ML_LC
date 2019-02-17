@@ -1,0 +1,34 @@
+Solving data science challenges with mathematics
+Module 1:
+ Motivations for linear algebra
+ Getting a Handle on Vectors
+ Operations with Vectors 
+Module 2:
+ Modulus & Inner product 
+ The cosine rule & dot product 
+ Vector Projection 
+ Changing Basis (co-ordinate systems) & Example using the projection product
+ Applications of changing basis
+ Basis - Application
+ Introduction to Matrices 
+Module 3:
+ How matrices transform space 
+ Types of matrix transformation 
+ Composition or Combination of Matrix Transformations 
+ Inverses: Solving the apples and bananas problem and Gaussian elimination 
+ Going from Gaussian Elimination to finding the Inverse Matrix 
+ Determinants and inverses
+Module 4: 
+ Einstein Summation Convention and the symmetry of dot product
+ Matrices changing basis 
+ Doing a transformation in a changed basis 
+ Orthogonal matrices
+ How to construct an orthonormal basis - Gram–Schmidt process
+ Example:Reflecting in a plane
+Module 5:  
+ What are eigenvalues and eigenvectors? 
+ Special eigen-cases 
+ Calculating eigenvectors 
+ Changing to the eigenbasis 
+ Eigenbasis example 
+ Introduction to PageRank
