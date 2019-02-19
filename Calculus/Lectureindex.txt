@@ -1,0 +1,30 @@
+Fuctions
+Definition of a derivative
+Differentiation examples & special case
+Differentiate some functions
+Time saving rules
+Product rule
+Chain rule
+Variables, constants & context
+Differentiate with respect to anything
+Jacobians - vectors of derivatives
+Jacobian applied
+The Sandpit
+The Sandpit -2
+The Hessian
+Multivariate chain rule
+Neural Networks
+Simple neural networks
+Power series
+Visualising Taylor Series
+Power series derivation
+Power series details
+Multivariable Taylor Series
+Linearisation
+Multivariate Taylor
+Gradient Descent
+Gradient descent in a sandpit
+Lagrange multipliers
+Constrained optimisation
+Simple linear regression
+Non-linear regression
