@@ -1,12 +1,14 @@
-Fuctions
-Definition of a derivative
-Differentiation examples & special case
-Differentiate some functions
-Time saving rules
-Product rule
-Chain rule
-Variables, constants & context
-Differentiate with respect to anything
+Module 1
+ Fuctions
+ Definition of a derivative
+ Differentiation examples & special case
+ Differentiate some functions
+ Time saving rules
+ Product rule
+ Chain rule
+ Variables, constants & context
+ Differentiate with respect to anything
+Module 2
 Jacobians - vectors of derivatives
 Jacobian applied
 The Sandpit
