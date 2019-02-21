@@ -9,9 +9,9 @@ Module 1
  Variables, constants & context
  Differentiate with respect to anything
 Module 2
-Jacobians - vectors of derivatives
-Jacobian applied
-The Sandpit
+ Jacobians - vectors of derivatives
+ Jacobian applied
+ The Sandpit
 The Sandpit -2
 The Hessian
 Multivariate chain rule
