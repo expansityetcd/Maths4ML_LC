@@ -12,13 +12,15 @@ Module 2
  Jacobians - vectors of derivatives
  Jacobian applied
  The Sandpit
-The Sandpit -2
-The Hessian
-Multivariate chain rule
-Neural Networks
-Simple neural networks
-Power series
-Visualising Taylor Series
+ The Sandpit -2
+ The Hessian
+Module 3
+ Multivariate chain rule
+ Neural Networks
+ Simple neural networks
+ Power series
+Module 4
+ Visualising Taylor Series
 Power series derivation
 Power series details
 Multivariable Taylor Series
