@@ -21,9 +21,9 @@ Module 3
  Power series
 Module 4
  Visualising Taylor Series
-Power series derivation
-Power series details
-Multivariable Taylor Series
+ Power series derivation
+ Power series details
+ Multivariable Taylor Series
 Linearisation
 Multivariate Taylor
 Gradient Descent
