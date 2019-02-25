@@ -24,11 +24,13 @@ Module 4
  Power series derivation
  Power series details
  Multivariable Taylor Series
-Linearisation
-Multivariate Taylor
-Gradient Descent
-Gradient descent in a sandpit
-Lagrange multipliers
-Constrained optimisation
-Simple linear regression
+ Linearisation
+ Multivariate Taylor
+Module 5
+ Gradient Descent
+ Gradient descent in a sandpit
+ Lagrangae multipliers
+ Constrained optimisation
+Module 6
+ Simple linear regression
 Non-linear regression
