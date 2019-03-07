@@ -1,3 +1,4 @@
+Welcome to module 1 
 Mean values 
 Mean of a dataset 
 Variances and covariances 
@@ -24,6 +25,7 @@ Example: projection onto 1D subspaces
 Projections onto higher-dimensional subspaces 
 Full derivation of the projection 
 Example: projection onto a 2D subspace 
+Welcome to module 4 
 PCA derivation 
 Problem setting and PCA objective 
 Multivariate chain rule 
