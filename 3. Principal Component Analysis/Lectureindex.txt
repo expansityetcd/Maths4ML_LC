@@ -1,0 +1,39 @@
+Welcome to module 1 
+Mean values 
+Mean of a dataset 
+Variances and covariances 
+Variance of one-dimensional datasets 
+Variance of higher-dimensional datasets 
+Linear transformation of datasets 
+Effect on the mean 
+Effect on the (co)variance 
+Mean/covariance of a dataset + effect of a linear transformation 
+Dot product 
+Welcome to module 2 
+Dot product 
+Inner products 
+Inner product: definition 
+Inner product: length of vectors 
+Inner product: distances between vectors 
+Inner product: angles and orthogonality 
+Inner products and angles 
+Inner products of functions and random variables (optional) 
+Projections 
+Welcome to module 3 
+Projection onto 1D subspaces 
+Example: projection onto 1D subspaces 
+Projections onto higher-dimensional subspaces 
+Full derivation of the projection 
+Example: projection onto a 2D subspace 
+Welcome to module 4 
+PCA derivation 
+Problem setting and PCA objective 
+Multivariate chain rule 
+Finding the coordinates of the projected data 
+Reformulation of the objective 
+Finding the basis vectors that span the principal subspace 
+PCA algorithm 
+Steps of PCA 
+PCA in high dimensions 
+Principal Components Analysis (PCA) 
+Other interpretations of PCA (optional)
